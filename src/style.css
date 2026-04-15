@@ -9,7 +9,7 @@ body {
       height: 200px;
     }
 
-    /* Red glow shadow behind */
+
     .red-shadow {
       position: absolute;
       bottom: -10px;
@@ -22,7 +22,7 @@ body {
       z-index: 0;
     }
 
-    /* Orange rounded square (outer) */
+
     .orange-square {
       position: absolute;
       top: 0;
@@ -37,7 +37,7 @@ body {
       justify-content: center;
     }
 
-    /* White inner square with inset red shadow top-left */
+
     .white-square {
       width: 90px;
       height: 90px;
