@@ -1,6 +1,15 @@
 # Sárga lekerekített négyzet
-- Indítás
-  
-    npm install
-    npm start
-  
+
+## Indítás
+
+Függőségek telepítése:
+
+```
+npm install
+```
+
+Szerver indítása:
+
+```
+npm start
+```
