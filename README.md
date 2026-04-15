@@ -1,5 +1,5 @@
-#Sárga lekerekített négyzet
-Indítás
-  npm install
-  npm start
+# Sárga lekerekített négyzet
+- Indítás
+    npm install
+    npm start
   
